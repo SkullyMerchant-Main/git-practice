@@ -3,3 +3,4 @@ color = input("What is your favorite color? ")
 
 print(f"Hello, {name}!")
 print(f"{color.title()} is an excellent choice!")
+print("Thanks for trying this program, goodbye!")
